@@ -1,0 +1,8 @@
+name: Drone
+description: |
+  Drone 0.5 CI Server
+version: 0.1
+category: Continuous Integration
+maintainer: lewis@dangerfarms.com
+license: Apache2
+projectURL: https://github.com/dangerfarms/rancher-cattle-drone
